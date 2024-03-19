@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LL_parser",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LL_parser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LL_parser-Debug-57b919ee88e3ce124b08.json",
+					"name" : "LL_parser",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ibm514/Library/CloudStorage/OneDrive-\uc911\uc559\ub300\ud559\uad50/PROJECT/LL_parser/cmake-build-debug",
+		"source" : "/Users/ibm514/Library/CloudStorage/OneDrive-\uc911\uc559\ub300\ud559\uad50/PROJECT/LL_parser"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
